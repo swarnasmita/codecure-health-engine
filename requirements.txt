@@ -4,3 +4,5 @@ streamlit
 requests
 plotly
 pandas
+numpy
+httpx
