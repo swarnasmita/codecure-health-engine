@@ -1,5 +1,5 @@
 # codecure-health-engine
-# 🧠 CODECURE: The Road Not Taken  
+# 🧠 CuraTrace AI: A Counterfactual Health Intelligence System 
 ### An AI Engine for Alternate Health Outcomes
 
 ---
